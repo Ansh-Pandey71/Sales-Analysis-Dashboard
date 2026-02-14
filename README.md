@@ -68,6 +68,8 @@ Use the slicers and filters to explore insights interactively
 
 📷 Dashboard Preview
 
+<img width="921" height="485" alt="Dashboard" src="https://github.com/user-attachments/assets/c11edbca-91fd-4c15-868d-beac346283c6" />
+
 
 
 
